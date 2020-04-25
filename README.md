@@ -3,7 +3,7 @@
 
 ### Table of Contents
 
-- [Description](#description)
+- [Introduction](#introduction)
 
 ---
 
