@@ -12,7 +12,7 @@
 Welcome to the Github page for FROST!
 
 We are a group of graduate students from the University of Florida Biomedical Engineering and Neuroscience Departments. Our research primarily involves neural signal acquisition from humans engaged in behavioral experiments. If you’re anything like us, you may have struggled to develop a system that synchronizes the various devices used during your experiments – the brain signals, maybe a button that the participant holds, EMG sensors, etc. We realized there wasn’t much available on the market, and we needed something that was universal and flexible to accommodate all the different projects in our lab.
-Thus, we began down an iterative path that has led to FROST. This work is published in the [Future Journal Name] here: [Future Link]. If you’re curious, here’s a quick story of how we got to the final, polished version of FROST:
+Thus, we began down an iterative path that has led to FROST. This work is published in the [Future Journal Name] here: [Future Link]. If you’re curious, here’s a quick story of how we got to the final, polished version of FROST: [a Link](https://www.youtube.com/watch?v=eVGEea7adDM&t=129s)
 
 1. First we grabbed a whiteboard and drew out some basic connections. We knew we wanted an Arduino core and some cables for a peripheral button and a light sensor to synchronize the computer monitor.
 
