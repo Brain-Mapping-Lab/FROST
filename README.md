@@ -1,6 +1,6 @@
 # Florida Research Open-source Synchronization Tool (FROST) 
 
-![](images/FROST_board.png){:height="123px" width="200px"}
+![](images/FROST_board.png)
 
 ---
 
