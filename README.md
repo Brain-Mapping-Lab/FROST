@@ -40,7 +40,7 @@ The FROST team
 
 ## Hardware
 
-FROST uses the ATMega32-U4 microcontroller to handle all the analog and digital signals from the inputs, and emits synchronization pulses for different acquisition systems. The ATMega32-U4 Microcontroller could be programmed in assembly language, C/C++, and also supports the Arduino Leonardo Bootloader. In this section we describe the process to build a FROST.
+FROST uses the [ATMega32-U4 microcontroller](https://www.microchip.com/wwwproducts/en/ATmega32u4) to handle all the analog and digital signals from the inputs, and emits synchronization pulses for different acquisition systems. The ATMega32-U4 Microcontroller could be programmed in assembly language, C/C++, and also supports the [Arduino Leonardo Bootloader](https://www.arduino.cc/en/Guide/ArduinoLeonardoMicro). In this section we describe the process to build a FROST.
 
 ### PCB design and manufacturing 
 
