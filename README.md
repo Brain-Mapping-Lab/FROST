@@ -44,7 +44,7 @@ FROST uses the [ATMega32-U4 microcontroller](https://www.microchip.com/wwwproduc
 
 ### PCB design and manufacturing 
 
-FROST board was designed in [Autodesk Eagle](https://www.autodesk.com/products/eagle/overview), the schematic and layout are available in the [hardware folder](hardware). Also, in the hardware folder the exported Gerber files can be found. PCB manufacturing companies requires the PCB layout exported in this format with a naming convention per layer and the drill file.   
+FROST board was designed in [Autodesk Eagle](https://www.autodesk.com/products/eagle/overview), the schematic and layout are available in the [hardware folder](hardware). Also, in the hardware folder the exported Gerber files can be found. PCB manufacturing companies require the PCB layout exported in this format with a naming convention per layer and the drill file. We used JLCPCB as manufacturing services. JLCPCB offers a minimum quantity of 5 boards per US$ 2 + shipping.    
 
 ---
 
