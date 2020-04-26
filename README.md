@@ -40,6 +40,12 @@ The FROST team
 
 ## Hardware
 
+FROST uses the ATMega32-U4 microcontroller to handle all the analog and digital signals from the inputs, and emits synchronization pulses for different acquisition systems. The ATMega32-U4 Microcontroller could be programmed in assembly language, C/C++, and also supports the Arduino Leonardo Bootloader. In this section we describe the process to build a FROST.
+
+### PCB design and manufacturing 
+
+FROST board was designed in Autodesk Eagle, the schematic and layout are available in the hardware folder. Also, in the hardware folder the exported Gerber files can be found. PCB manufacturing companies requires the PCB layout exported in this format with a naming convention per layer and the drill file.   
+
 ---
 
 ## Software
