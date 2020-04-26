@@ -7,7 +7,8 @@
 ### Table of Contents
 
 - [Introduction](#introduction)
-
+- [Hardware](#hardware)
+- [Software](#software)
 ---
 
 ## Introduction
@@ -34,3 +35,11 @@ We hope this device can help you. Please let us know how we can help you set up 
 Sincerely,
 
 The FROST team
+
+---
+
+## Hardware
+
+---
+
+## Software
