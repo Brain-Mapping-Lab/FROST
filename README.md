@@ -44,7 +44,13 @@ FROST uses the [ATMega32-U4 microcontroller](https://www.microchip.com/wwwproduc
 
 ### PCB design and manufacturing 
 
-FROST board was designed in [Autodesk Eagle](https://www.autodesk.com/products/eagle/overview), the schematic and layout are available in the [hardware folder](hardware). Also, in the hardware folder the exported Gerber files can be found. PCB manufacturing companies require the PCB layout exported in this format with a naming convention per layer and the drill file. We used JLCPCB as manufacturing services. JLCPCB offers a minimum quantity of 5 boards per US$ 2 + shipping.    
+FROST board was designed in [Autodesk Eagle](https://www.autodesk.com/products/eagle/overview), the schematic and layout are available in the [hardware folder](hardware). Also, in the hardware folder the exported Gerber files can be found. PCB manufacturing companies require the PCB layout exported in this format with a naming convention per layer and the drill file. We used [JLCPCB](https://jlcpcb.com/) as manufacturing services. JLCPCB offers a minimum quantity of 5 boards per US$ 2 + shipping.
+
+### Board assembly
+
+The [list of components](hardware/Partlist.xlsx) can be found in the hardware folder. Even when most of these components on the board are surface-mount devices (SMD), we assembled our FROST boards with a typical soldering station. We strongly recommend the use of flux during the SMD process and a good illumination (you can use a microscope for SMD soldering for better results). The materials used for assembling were: A [Hakko FX951-66](https://www.digikey.com/product-detail/en/american-hakko-products-inc/FX951-66/1691-1085-ND/6228841) soldering station, lead-free wire solder 60/40 thinner than 1mm, [SparkFun TOL-10602](https://www.digikey.com/product-detail/en/sparkfun-electronics/TOL-10602/1568-1795-ND/7229846)tweezers, and [Chipquik SMD291](https://www.digikey.com/product-detail/en/chip-quik-inc/SMD291/SMD291-ND/355201) flux. 
+
+Note: [JLCPCB now offers assembly options](https://jlcpcb.com//smt-assembly) with many components available, it should be necessary to match the part-list with the options that they offer, for example they could have resistors from another manufacturer but same value and dimensions.
 
 ---
 
