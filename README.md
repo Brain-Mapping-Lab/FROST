@@ -52,6 +52,13 @@ The [list of components](hardware/Partlist.xlsx) can be found in the hardware fo
 
 Note: [JLCPCB now offers assembly options](https://jlcpcb.com//smt-assembly) with many components available, it should be necessary to match the part-list with the options that they offer, for example they could have resistors from another manufacturer but same value and dimensions.
 
+### Programming the microcontroller
+
+Once the board is assembled, connect FROST (through an USB type B cable) to a 5V USB power source that could be a computer USB port. Connect an ISP programmer to the port labeled as X4 in the board (as shown in the picture below). Using the AVR-ISP MK2 or the [AVR-Dragon](https://www.microchip.com/DevelopmentTools/ProductDetails/PartNO/ATAVRDRAGON) it can be uploaded any program developed for the microcontroller including the Arduino Leonardo Bootloader. Another method to upload the bootloader is using a spare Arduino board and follow the [instructions here](https://www.arduino.cc/en/tutorial/arduinoISP).
+
+![](images/Programmers.png)
+
+
 ---
 
 ## Software
