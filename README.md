@@ -58,7 +58,7 @@ Once the board is assembled, connect FROST (through an USB type B cable) to a 5V
 
 ![](images/Programmers.png)
 
-Once Arduino Bootloader is loaded into the microcontroller, FROST is ready to be used as a standard Arduino and programmed by the Arduino IDE via USB.
+Once the Arduino Bootloader is loaded into the microcontroller, FROST is ready to be used as a standard Arduino and programmed by the Arduino IDE via USB.
 
 ---
 
