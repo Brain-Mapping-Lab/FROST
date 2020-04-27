@@ -60,6 +60,11 @@ Once the board is assembled, connect FROST (through an USB type B cable) to a 5V
 
 Once the Arduino Bootloader is loaded into the microcontroller, FROST is ready to be used as a standard Arduino and programmed by the Arduino IDE via USB.
 
+### Box mounting
+
+FROST was designed to fit in the [Arduino Box M000015](https://store.arduino.cc/usa/box-for-arduino). Additional holes can be made using a drilling tool like a [Dremel rotary tool](https://www.dremel.com/en_US/tools/-/subcategory/tool/find-by-category/27343/rotary?ModPagespeed=off). Most connectors in FROST are JST type. The JST female connector and the metallic contacts that joins the cable into the connector are sold separately. To assembly the JST connector to the cables it is necessary to use a crimper tool. Another option is to buy assembled cables. 
+
+
 ---
 
 ## Software
