@@ -68,3 +68,21 @@ FROST was designed to fit in the [Arduino Box M000015](https://store.arduino.cc/
 ---
 
 ## Software
+
+| FROST IO | Arduino Leonardo IO | Type |
+| :--- | :---: | :---: | 
+| Sync Output bit 0 | D7 | Digital Output|
+| Sync Output bit 1 | D8 | Digital Output|
+| Sync Output bit 2 | D6 | Digital Output|
+| Sync Output bit 3 | D9 | Digital Output|
+| Sync Output bit 4 | D4 | Digital Output|
+| Sync Output bit 5 | D10 | Digital Output|
+| Camera sync output | D5 | Digital Output/Input(Daisy Chain) |
+| EMG sync port | D11 | Digital Output|
+| LED indicator | D7 | Digital Output|
+| Peripheral device digital input | D12 | Digital Input|
+| Peripheral device analog input | A0 | Analog Input|
+| Peripheral Device ID | A2 | Analog Input|
+| Heart rate analog input | A1 | Analog Input|
+| Light Sensor analog input | A4 | Analog Input|
+| Light Sensor sync output | D3 | Digital Output|
