@@ -69,7 +69,7 @@ FROST was designed to fit in the [Arduino Box M000015](https://store.arduino.cc/
 
 ## Software
 
-| FROST IO | Arduino Leonardo IO | Type |
+| FROST I/O | Arduino Leonardo I/O | Type |
 | :--- | :---: | :---: | 
 | Sync Output bit 0 | D7 | Digital Output|
 | Sync Output bit 1 | D8 | Digital Output|
