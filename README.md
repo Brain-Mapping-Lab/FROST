@@ -8,7 +8,7 @@
 
 - [Introduction](#introduction)
 - [Hardware](#hardware)
-- [Software](#software)
+- [Firmware](#firmware)
 ---
 
 ## Introduction
@@ -67,7 +67,11 @@ FROST was designed to fit in the [Arduino Box M000015](https://store.arduino.cc/
 
 ---
 
-## Software
+## Firmware
+
+The file named [FROST_Demo.ino](FROST_Demo.ino) is a functional example of FROST. It can work with both peripheral devices, described in the paper. To upload this file, make sure to install the Arduino Leonardo bootloader in the microcontroller as explained above. Install the drivers included in the Arduino IDE, select as board the Arduino Leonardo and compile and uploaded the firmware to the microcontroller.
+
+The next table includes a description of the FROST inputs/outputs, and its respective Arduino pinout name.  
 
 | FROST I/O | Arduino Leonardo I/O | Type |
 | :--- | :---: | :---: | 
