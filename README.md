@@ -7,6 +7,7 @@
 ### Table of Contents
 
 - [Introduction](#introduction)
+- [Disclaimer](#disclaimer)
 - [Hardware](#hardware)
 - [Firmware](#firmware)
 ---
@@ -35,6 +36,10 @@ We hope this device can help you. Please let us know how we can help you set up 
 Sincerely,
 
 The FROST team
+
+## Disclaimer
+
+Test
 
 ---
 
