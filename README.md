@@ -7,7 +7,7 @@
 ### Table of Contents
 
 - [Introduction](#introduction)
-- [Disclaimer](#disclaimer)
+- [Disclosure](#disclosure)
 - [Hardware](#hardware)
 - [Firmware](#firmware)
 ---
@@ -37,9 +37,9 @@ Sincerely,
 
 The FROST team
 
-## Disclaimer
+## Disclosure
 
-Test
+Research reported in this publication was supported by the National Institute Of Neurological Disorders And Stroke of the National Institutes of Health under Award Number F30NS111841. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.
 
 ---
 
